@@ -1,10 +1,8 @@
-package vazkii.botania.fabric.integration.emi;
-
+package vazkii.botania.client.integration.emi;
 import dev.emi.emi.api.widget.Bounds;
 import dev.emi.emi.api.widget.Widget;
 
 import net.minecraft.client.gui.GuiGraphics;
-
 import vazkii.botania.client.gui.HUDHandler;
 
 public class ManaWidget extends Widget {
